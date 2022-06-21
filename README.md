@@ -4,7 +4,7 @@ Hi 👋 My name is Lisa Abokhai
 Data Engineer
 -------------
 
-I've always been interested in data management and data attainment for a long time now and decided to step into the world of data by becoming a data engineer. I am looking forward to opportunities to expand my knowledge and connect to others.
+Working towards being a great data engineer.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [abokhailisa@gmail.com](mailto:abokhailisa@gmail.com)
